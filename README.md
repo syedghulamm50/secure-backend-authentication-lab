@@ -72,7 +72,7 @@ source venv/bin/activate
 
 ### Environment Setup
 
-![Environment Setup](images/initial_setup.png)
+![Environment Setup](images/initialsetup.png)
 
 ---
 
@@ -104,7 +104,7 @@ mock_users.csv
 
 ### Mockaroo Configuration
 
-![Mockaroo](images/data_generation.png)
+![Mockaroo](images/datagen.png)
 
 ---
 
@@ -118,7 +118,7 @@ python db_setup.py
 
 ### Database Setup
 
-![Database Setup](images/db_setup.png)
+![Database Setup](images/dbsetup.png)
 
 ---
 
@@ -159,7 +159,7 @@ Encryption uses:
 
 ### Encryption Helper
 
-![AES Encryption](images/crypto_helper.png)
+![AES Encryption](images/cryptohelper.png)
 
 ---
 
@@ -186,7 +186,7 @@ conn.close()
 
 ### Encrypted Database Record
 
-![Encrypted Record](images/encrypted_record.png)
+![Encrypted Record](images/encrypted.png)
 
 ---
 
