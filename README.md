@@ -44,30 +44,6 @@ The project demonstrates three fundamental security mechanisms used in modern ap
 
 ---
 
-# Project Structure
-
-```
-security_task_mock/
-│
-├── app.py
-├── crypto_helper.py
-├── db_setup.py
-├── app.db
-├── mock_users.csv
-├── requirements.txt
-├── images/
-│   ├── initial_setup.png
-│   ├── data_generation.png
-│   ├── db_setup.png
-│   ├── crypto_helper.png
-│   ├── app.png
-│   └── encrypted_record.png
-│
-└── README.md
-```
-
----
-
 # Technologies Used
 
 - Python 3
